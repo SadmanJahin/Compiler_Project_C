@@ -1,0 +1,17 @@
+ln 1 
+ln 2 float x1 = 3.125;;;
+ln 3 
+ln 4 double f1(int x)
+ln 5 {
+ln 6 double z;
+ln 7 z = 0.01;
+ln 8 return z;
+ln 9 }
+ln 10 
+ln 11 int main(void)
+ln 12 {
+ln 13 int n1; double z;
+ln 14 while(a>=1)b=2;
+ln 15 n1=25;
+ln 16 for(b=c*/-3);
+ln 17 

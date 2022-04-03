@@ -1,0 +1,9 @@
+Symbol Table :
+SL NO	Name	Id Type	Data Type	Scope 	Value 	
+1 	x1 	var 	float 		global 	3.125 	
+3 	f1 	func 	double 		global 	-99999.000 	
+4 	x 	var 	int 		f1 	-99999.000 	
+5 	z 	var 	double 		f1 	0.010 	
+6 	main 	func 	int 		global 	-99999.000 	
+7 	n1 	var 	int 		main 	-99999.000 	
+8 	z 	var 	double 		main 	-99999.000 	

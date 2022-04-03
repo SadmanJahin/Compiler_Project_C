@@ -1,0 +1,18 @@
+
+ln 1 
+ln 2 kw float id x1 = 3.125 sep ; sep ; sep ; 
+ln 3 
+ln 4 kw double id f1 ( kw int id x ) 
+ln 5 { 
+ln 6 kw double id z sep ; 
+ln 7 id z = 0.01 sep ; 
+ln 8 return id z sep ; 
+ln 9 } 
+ln 10 
+ln 11 kw int id main ( void ) 
+ln 12 { 
+ln 13 kw int id n1 sep ; kw double id z sep ; 
+ln 14 while ( id a >= 1 ) id b = 2 sep ; 
+ln 15 id n1 = 25 sep ; 
+ln 16 for ( id b = id c * / - 3 ) sep ; 
+ln 17 
